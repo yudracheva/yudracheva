@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yudracheva
 - 👀 I’m interested in Cloud, Game, Software development
-- 📫 How to reach me https://t.me/yuedracheva
+- 📫 You can reach me here https://t.me/yuedracheva
 
 <!---
 yudracheva/yudracheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
